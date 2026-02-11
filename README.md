@@ -30,7 +30,6 @@ Amazon Translate: Used for translation of the sentence according to the input la
 Estimated Time & Cost:
 
 This project is estimated to take about 1-2 Hours
-
 Cost: Free
 
  Architectural Diagram:
