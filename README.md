@@ -28,12 +28,14 @@ AWS IAM: Ensures secure access by managing user permissions.
 Amazon Translate: Used for translation of the sentence according to the input language specified.
 
 Estimated Time & Cost:
+
 This project is estimated to take about 1-2 Hours
+
 Cost: Free
 
  Architectural Diagram:
  
-This it the architectural diagram for the project:
+This is the architectural diagram for the project:
 
 
 
