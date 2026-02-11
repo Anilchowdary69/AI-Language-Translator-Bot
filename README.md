@@ -30,6 +30,9 @@ Cost: Free
 
  Architectural Diagram
 This it the architectural diagram for the project:
+
+
+
 <img width="1630" height="711" alt="image" src="https://github.com/user-attachments/assets/11635ea3-f1ed-4e2d-8a73-5fc50b3da249" />
 
 
@@ -37,4 +40,7 @@ This it the architectural diagram for the project:
 
  Final Result
 This is what the project will look like, once built:
+
+
+
 <img width="345" height="681" alt="image" src="https://github.com/user-attachments/assets/8cea7df1-e382-4e44-a2cf-b4ad3dd607c0" />
