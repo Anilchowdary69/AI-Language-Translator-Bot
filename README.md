@@ -2,20 +2,36 @@
 
 A conversational chatbot built with **Amazon Lex V2** that detects user input and provides real-time translations using **Amazon Translate**.
 
-## ☁️ Architecture Overview
+Overview of Project ☁️
+In this project, I'll be building a language translation bot using Amazon Lex.
 
+If you want to translate a word or sentence into another language, all you have to do is type it into this chatbot - and it will output the translation.
 
-1. **User Interface**: Amazon Lex handles the conversation and slot elicitation.
-2. **Logic Layer**: AWS Lambda processes the intent and extracts slot data.
-3. **AI Service**: Amazon Translate performs the language conversion.
-4. **Security**: IAM Role with 'Least Privilege' permissions for `translate:TranslateText`.
+Steps to be performed 👩‍💻
+In this Project, i will be going through the following steps.
 
-## 🛠️ Features
-- **Auto-Language Detection**: Users can type in any supported language.
-- **Dynamic Slot Filling**: Lex ensures both the target language and the phrase are collected before fulfillment.
-- **Serverless Scaling**: Built entirely on AWS Lambda and Lex for zero-server maintenance.
+Creating an empty chatbot
+Specifying intents and slots
+Specify Fulfilment
+Create an IAM role
+Create a Lambda function
+Test the Lambda function
+Test the chatbot
 
-## 🚀 How to Deploy
-1. **Lambda**: Create a function with the code in `src/` and attach the policy in `iam/`.
-2. **Lex**: Import or create a bot with a `TranslateIntent`.
-3. **Fulfillment**: Link the Lambda function to the Lex Bot alias.
+Services Used 🛠
+Amazon Lex: Build the chatbot and define conversation flow.
+AWS Lambda: Get the book recommendation using a third party API.
+AWS IAM: Ensures secure access by managing user permissions.
+Amazon Translate: Used for translation of the sentence according to the input language specified.
+
+Estimated Time & Cost ⚙️
+This project is estimated to take about 1-2 Hours
+Cost: Free
+
+ Architectural Diagram
+This it the architectural diagram for the project:
+https://uploads.teachablecdn.com/attachments/0MlSYVBsSfSTjKN9qW6n_9A.png
+
+ Final Result
+This is what the project will look like, once built:
+https://uploads.teachablecdn.com/attachments/vW8VFKLATY2ToOEOA5Uu_ZZ1.png
