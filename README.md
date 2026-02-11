@@ -32,6 +32,8 @@ Cost: Free
 This it the architectural diagram for the project:
 https://uploads.teachablecdn.com/attachments/0MlSYVBsSfSTjKN9qW6n_9A.png
 
+
+
  Final Result
 This is what the project will look like, once built:
 https://uploads.teachablecdn.com/attachments/vW8VFKLATY2ToOEOA5Uu_ZZ1.png
